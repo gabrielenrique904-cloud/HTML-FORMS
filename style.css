@@ -1,0 +1,5 @@
+
+.padre-todo{
+    display: flex;
+    justify-content: space-around;
+}
